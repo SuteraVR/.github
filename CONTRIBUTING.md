@@ -1,6 +1,6 @@
 # CONTRIBUTING GUIDE
 
-This guide was written for Japanese-speaking contributors. If you are an English speaker and would like to contribute, please post to [GitHub Discussion in SuteraVR](https://github.com/SuteraVR/SuteraVR/discussions).  
+This guide was written for Japanese-speaking contributors. If you are an English speaker and would like to contribute, please post on [GitHub Discussion in SuteraVR](https://github.com/SuteraVR/SuteraVR/discussions).
 
 このガイドは日本語話者のコントリビューターの為に書かれました。もしもあなたが英語話者でコントリビュートしたい場合は[GitHub Discussion in SuteraVR](https://github.com/SuteraVR/SuteraVR/discussions)に投稿してください。
 
