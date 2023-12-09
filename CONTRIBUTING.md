@@ -17,7 +17,11 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 ### イシュー
 
+イシューを立てる前には必ず同様のイシューが存在しない事を確認してください。もしもイシューの内容が被っていた場合には`Not Planned`としてイシューを閉じてください。
+
 ### ブランチ
+
+**現在ブランチの命名規則について必要か不要かの議論が行なわれています。最新情報をお待ちください。**
 
 ブランチの命名規則について。
 `#{イシューの番号}-{実装内容を簡潔に、かつハイフンで区切って記す}`のように作成してください。
@@ -29,11 +33,19 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 ### マイルストーン
 
+**現在マイルストーンの作成について議論が行なわれています。最新情報をお待ちください。**
+
 ### プルリクエスト
 
-### レビュー
+プルリクエストは必ずイシューに関連づけて作成してください。関連づける方法は[GitHub Docs](https://docs.github.com/ja/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)を参照してください。
 
-### Approve後のマージ
+### レビュー後のマージ
+
+**現在レビュー後のマージの仕方について議論が行なわれています。最新情報をお待ちください。**
+
+### CI/CDの追加
+
+**現在CI/CDの追加作業が行なわれています。最新情報をお待ちください。**
 
 ## GitHub Discussions
 
