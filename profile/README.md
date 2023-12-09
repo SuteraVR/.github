@@ -2,6 +2,8 @@
 
 Decentralized VRSNS - A new VRSNS that makes your precious worlds and avatars independent of any specific service.
 
+![SuteraVR's logo](../assets/images/suteraVRlogo.png "SuteraVR")
+
 # Design
 
 - World, avatar, client format, etc.
