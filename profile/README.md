@@ -12,3 +12,7 @@ Decentralized VRSNS - A new VRSNS that makes your precious worlds and avatars in
 - Allow users to set permissions for uploading, etc. Limited publication of worlds, etc.
 
 [README_JP](https://github.com/SuteraVR/SuteraVR/blob/main/README_JP.md)
+
+# Community
+
+[SuteraVR Discord Community](https://discord.gg/TUeNAzU8kd)
