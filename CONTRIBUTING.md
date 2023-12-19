@@ -17,7 +17,7 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 ### イシュー
 
-- イシューの命名規則は、[Conventional Commits:v1.0.0](https://www.conventionalcommits.org/ja/v1.0.0/)に従ってください。
+- イシューは、[Conventional Commits:v1.0.0](https://www.conventionalcommits.org/ja/v1.0.0/)のタイトルと同じように名前を付けてください。
 - イシューを立てる前には必ず同様のイシューが存在しない事を確認してください。もしもイシューの内容が被っていた場合には`Not Planned`としてイシューを閉じてください。
 
 ### ブランチ
