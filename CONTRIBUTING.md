@@ -21,14 +21,11 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 ### ブランチ
 
-**現在ブランチの命名規則について必要か不要かの議論が行なわれています。最新情報をお待ちください。**
-
-ブランチの命名規則について。
-`#{イシューの番号}-{実装内容を簡潔に、かつハイフンで区切って記す}`のように作成してください。
+- `{イシューの型}/{実装内容を簡潔に、かつハイフンで区切って記す}`のように作成してください。以下に例を記載します。
 ```txt
-# 例
-#1-create-monorepo
-#32-setup-godot4
+fix/rewrite-contributing-md
+feat/add-clocking-server
+docs/write-some-docs
 ```
 
 ### マイルストーン
@@ -37,11 +34,13 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 ### プルリクエスト
 
-プルリクエストは必ずイシューに関連づけて作成してください。関連づける方法は[GitHub Docs](https://docs.github.com/ja/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)を参照してください。
+- プルリクエストは必ずイシューに関連づけて作成してください。関連づける方法は[GitHub Docs](https://docs.github.com/ja/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)を参照してください。以下にコメントの例を記載します。
+```txt
+- close #35
 
-### レビュー後のマージ
-
-**現在レビュー後のマージの仕方について議論が行なわれています。最新情報をお待ちください。**
+Fix typo in `CONTRIBUTING.md`.
+```
+- 現在パブリックベータである[Issueのためのブランチの作成機能](https://docs.github.com/ja/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)は、コメントに`- close #35`のような記法を使用した場合にログが二個出現してしまうために使用しないでください。
 
 ### CI/CDの追加
 
@@ -54,3 +53,6 @@ This guide was written for Japanese-speaking contributors. If you are an English
 ## GitHub Projects
 
 現在SuteraVRはGitHub Projectを活用しています。[SuteraVR's Project](https://github.com/orgs/SuteraVR/projects/1)
+以下に注意事項を記載します。
+
+- プルリクエストはイシューの欄にデフォルトで記載されているため、含める必要はありません。プルリクエストはProjectに登録しないでください。特に@haruki7049は気を付けてください。
