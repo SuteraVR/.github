@@ -47,15 +47,7 @@ Fix typo in `CONTRIBUTING.md`.
 
 ### CI/CDの追加
 
-現在存在するCIは以下の通りです。
-```md
-- balancing-server-checker
-- client-rust-checker
-- clocking-server-checker
-- social-server-checker
-- suteravr-lib-checker
-```
-もしも他にCIを走らせるべきだと感じたならば、その点を纏めてイシューを作成してください。
+- 現在存在するCIは、`cargo test`と`cargo fmt`、`cargo clippy`をそれぞれのRustクレートに対して走らせるもののみです。もしも他にCIを走らせるべきだと感じたならば、その点を纏めてイシューを作成してください。
 
 ## GitHub Discussions
 
