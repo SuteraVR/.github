@@ -44,7 +44,15 @@ Fix typo in `CONTRIBUTING.md`.
 
 ### CI/CDの追加
 
-**現在CI/CDの追加作業が行なわれています。最新情報をお待ちください。**
+現在存在するCIは以下の通りです。
+```md
+- balancing-server-checker
+- client-rust-checker
+- clocking-server-checker
+- social-server-checker
+- suteravr-lib-checker
+```
+もしも他にCIを走らせるべきだと感じたならば、その点を纏めてイシューを作成してください。
 
 ## GitHub Discussions
 
