@@ -1,12 +1,13 @@
 # Reporting Security Issues
 
-**Do not** report security issues on Github Issue.
+**Do not** report security issues on any public spaces: Github Issue, Twitter, etc.
 Please report it by [this form](https://github.com/SuteraVR/.github/security/advisories/new).
 
 If you prefer to use email or chat apps, contact me by below things.
-Email: me.see2et@gmail.com
+Email: see2et@see2et.dev
 Discord: @see2et
 X(Twitter): [@see2et](https://x.com/see2et)
+ActivityPub/Misskey: [@see2et@ski.see2et.dev](https://ski.see2et.dev/@see2et)
 
 # Language
 
