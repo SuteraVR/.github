@@ -71,4 +71,4 @@ Fix typo in `CONTRIBUTING.md`.
 現在SuteraVRはGitHub Projectを活用しています。[SuteraVR's Project](https://github.com/orgs/SuteraVR/projects/1)
 以下に注意事項を記載します。
 
-- プルリクエストはイシューの欄にデフォルトで記載されているため、含める必要はありません。プルリクエストはProjectに登録しないでください。特に@haruki7049は気を付けてください。
+- プルリクエストはイシューの欄にデフォルトで記載されているため、含める必要はありません。プルリクエストはProjectに登録しないでください。
