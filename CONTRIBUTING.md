@@ -6,6 +6,19 @@ This guide was written for Japanese-speaking contributors. If you are an English
 
 現在コントリビューティングガイドが作成しきれていない為、記述が及ばない点があるかもしれません。ご了承ください。コントリビューティングガイドについて改善点を考えついた場合は[GitHub Discussion in SuteraVR](https://github.com/SuteraVR/SuteraVR/discussions)に投稿してください。
 
+## CLA への同意
+
+SuteraVR へのコントリビューションには、Contributor License Agreement (CLA) への同意が必要です。
+
+- CLA本文: [CONTRIBUTOR-LICENSE-AGREEMENT.md](https://github.com/SuteraVR/SuteraVR/blob/main/CONTRIBUTOR-LICENSE-AGREEMENT.md)
+- 個人コントリビュータは、PR上で以下の署名コメントを投稿してください。
+
+```txt
+I have read the CLA Document and I hereby sign the CLA
+```
+
+- 法人コントリビュータは、CLA本文の「署名 > 法人コントリビュータの場合」に従って必要情報を提出してください。
+
 ## 開発フロー
 
 開発フローは以下の様にしてください。
