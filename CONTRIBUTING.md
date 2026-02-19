@@ -68,7 +68,8 @@ Fix typo in `CONTRIBUTING.md`.
 
 ## GitHub Projects
 
-現在SuteraVRはGitHub Projectを活用しています。[SuteraVR's Project](https://github.com/orgs/SuteraVR/projects/1)
+現在SuteraVRでは、minor versionごとにGitHub Projectを作成して運用しています。Projectの一覧は[SuteraVR's Projects](https://github.com/orgs/SuteraVR/projects)を参照してください。
 以下に注意事項を記載します。
 
+- イシューは、対応するminor versionのProjectに追加してください。
 - プルリクエストはイシューの欄にデフォルトで記載されているため、含める必要はありません。プルリクエストはProjectに登録しないでください。
